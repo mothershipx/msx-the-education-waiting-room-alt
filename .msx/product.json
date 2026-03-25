@@ -1,0 +1,31 @@
+{
+  "id": "66ff2e09-e501-40c2-ba64-28ea70dd4c7e",
+  "name": "The Education 'Waiting Room' Alternative (Direct-to-Work Bridge)",
+  "slug": "the-education-waiting-room-alt",
+  "category": "saas",
+  "score": 94,
+  "description": "Recent graduates (CS particularly) and seasoned professionals (Journalism) are experiencing a total disconnect between effort (150+ apps) and results (0 interviews). This leads to 'Panic Degrees'—applying for Masters or returning to Community College purely because they 'have no other choice,' not because they want the education.",
+  "pain_points": [
+    "Applying to hundreds of jobs with zero response",
+    "Taking on debt for a Masters degree out of fear, not desire",
+    "Extreme depression and feeling 'directionless' despite having a degree"
+  ],
+  "market_size": null,
+  "tech_stack": [
+    "PyTorch for cognitive pattern recognition",
+    "Polygon (Ethereum L2) for verifiable skill ledgers",
+    "Docker/Kubernetes for isolated work environments",
+    "OpenAI GPT-4o API for dynamic supervisor simulation"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "32 upvotes",
+      "source": "reddit",
+      "mentions": 13
+    }
+  ],
+  "created_at": "2026-03-25T20:03:33.485Z",
+  "pipeline_version": "1.0.0"
+}
