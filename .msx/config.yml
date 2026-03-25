@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: The Education 'Waiting Room' Alternative (Direct-to-Work Bridge)
+slug: the-education-waiting-room-alt
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: the-education-waiting-room-alt.msx.dev
